@@ -1,6 +1,6 @@
 
 
-const upstream = 'https://dns.nextdns.io/11cc3e/Router';
+const upstream = 'https://freedns.controld.com/family';
 const binaryType = 'application/dns-message';
 const jsonType = 'application/dns-json';
 
